@@ -3,9 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
-##Rquirements
+##Requirements
+
 #environment:
    sdk: ">=2.12.0 <3.0.0"
+   
 #External dependencies
 
 - font_awesome_flutter: ^9.1.0

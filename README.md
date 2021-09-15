@@ -19,5 +19,5 @@ Download it run it and get going.
 
 
 #Screenshot of the Sample project
-[<img src="iamages/phone.png" width="250"/>](screenshot)
+[<img src="iamges/phone.png" width="250"/>](screenshot)
 
